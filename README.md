@@ -11,8 +11,20 @@ It is important as it ensures high quality software that meets user needs, helps
 Identify and describe at least three key milestones in the evolution of software engineering.
 Development of structured programmming replacing spaghetti code that was disorganized ad took a lot of time in developing.
 
+The Rise of Object-Oriented Programming whereby Instead of writing long, repetitive code, developers started using objects (code blocks that represent real-world things)which led to languages like C++, Java, and Python made coding more reusable, scalable, and efficient.
+
+The Agile Revolution-Before Agile, software was made using Waterfall, a slow, rigid method that was replaced by the Agile Manifesto, focusing on flexibility, teamwork, and fast updates leading to quick, efficient development.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+
+Planning → Identify the project's purpose, objectives, and feasibility.
+Requirement Analysis → Gather and document what the software must do.
+Design → Create system architecture, UI/UX, and database structure.
+Implementation (Coding) → Developers write and test code based on design.
+Testing → Check for bugs, errors, and security issues before deployment.
+Deployment → Release the software for users (can be phased or all at once).
+Maintenance → Fix bugs, update features, and improve performance over time.
+
 
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
