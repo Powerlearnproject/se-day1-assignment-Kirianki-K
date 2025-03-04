@@ -17,13 +17,13 @@ The Agile Revolution-Before Agile, software was made using Waterfall, a slow, ri
 
 List and briefly explain the phases of the Software Development Life Cycle.
 
-Planning → Identify the project's purpose, objectives, and feasibility.
-Requirement Analysis → Gather and document what the software must do.
-Design → Create system architecture, UI/UX, and database structure.
-Implementation (Coding) → Developers write and test code based on design.
-Testing → Check for bugs, errors, and security issues before deployment.
-Deployment → Release the software for users (can be phased or all at once).
-Maintenance → Fix bugs, update features, and improve performance over time.
+Planning ; Identify the project's purpose, objectives, and feasibility.
+Requirement Analysis ; Gather and document what the software must do.
+Design ; Create system architecture, UI/UX, and database structure.
+Implementation (Coding) ; Developers write and test code based on design.
+Testing ; Check for bugs, errors, and security issues before deployment.
+Deployment ; Release the software for users (can be phased or all at once).
+Maintenance ; Fix bugs, update features, and improve performance over time.
 
 
 
@@ -32,9 +32,9 @@ Waterfall methodology has a step by step approach thus it can be used in governm
 waterfall methodology is hard to change or adapt while agile methodology is easy to adapt.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software developer- Writes, tests and maintains the code.
-Quality assuarance engineer- Tests software for bugs anf ensures full functionality.
-Project manager- Oversees the planning, execution and communication of the teams.
+Software developer; Writes, tests and maintains the code.
+Quality assuarance engineer; Tests software for bugs anf ensures full functionality.
+Project manager; Oversees the planning, execution and communication of the teams.
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 Integrated Development Environments provide too;s for debugging, syntax error highlighting and auto complesion increasing efficiency.
@@ -46,10 +46,10 @@ Extremely tight deadlines which can be helped by using agile sprints for efficie
 Constant evolution of technology which can be solved by continous learning of courses and reading documents.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing - Tests individual components .
-Integration Testing - Checks if different parts work together.
-System Testing - Tests the whole system as a user would.
-Acceptance Testing - Confirms the software meets business requirements before release.
+Unit Testing ; Tests individual components .
+Integration Testing; Checks if different parts work together.
+System Testing; Tests the whole system as a user would.
+Acceptance Testing; Confirms the software meets business requirements before release.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
@@ -57,14 +57,14 @@ Acceptance Testing - Confirms the software meets business requirements before re
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the process of crafting inputs (prompts) to get the best responses from AI models like ChatGPT.
 It is Important because:
-It improves AI-generated results.
+It improves AI generated results.
 It makes AI more efficient in answering questions.
 It helps developers build better AI applications.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
-Vague prompt-"Tell me about space."
+Vague prompt; "Tell me about space."
 
-Improved Prompt-"Explain the formation of black holes in simple terms, and include real-world examples."
+Improved Prompt; "Explain the formation of black holes in simple terms, and include real-world examples."
 
 Why is it better?
 Specific (Black holes, not just “space”).
